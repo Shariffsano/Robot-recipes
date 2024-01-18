@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\bin\Debug\Applied exercises.exe.config
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\bin\Debug\Applied exercises.exe
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\bin\Debug\Applied exercises.pdb
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\obj\Debug\Applied exercises.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\obj\Debug\Applied exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\obj\Debug\Applied exercises.exe
+C:\Users\User\Desktop\Learrning materials\Programming 1\Visual projects\Applied exercises\obj\Debug\Applied exercises.pdb
